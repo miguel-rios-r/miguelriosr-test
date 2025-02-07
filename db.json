@@ -1,0 +1,106 @@
+{
+  "tours": [
+    {
+      "id": "1",
+      "date": 1677801600000,
+      "agent": "SUN TRAVEL",
+      "userCreator": "User 1",
+      "quote": 1256,
+      "travelCode": "ST-1256",
+      "reference": "ST-1256-OK",
+      "duration": 3,
+      "status": 1
+    },
+    {
+      "id": "2",
+      "date": 1679260800000,
+      "agent": "ECU TRAVEL",
+      "userCreator": "User 2",
+      "quote": 1420,
+      "travelCode": "ET-1420",
+      "reference": "ET-1420-OK",
+      "duration": 4,
+      "status": 1
+    },
+    {
+      "id": "3",
+      "date": 1680892800000,
+      "agent": "PARADISE",
+      "userCreator": "User 3",
+      "quote": 1700,
+      "travelCode": "PA-1700",
+      "reference": "PA-1700-OK",
+      "duration": 2,
+      "status": 1
+    },
+    {
+      "id": "4",
+      "date": 1681488000000,
+      "agent": "JUAN MARÍN",
+      "userCreator": "User 4",
+      "quote": 1500,
+      "travelCode": "JM-1500",
+      "reference": "JM-1500-OK",
+      "duration": 5,
+      "status": 1
+    },
+    {
+      "id": "5",
+      "date": 1682496000000,
+      "agent": "SUN TRAVEL",
+      "userCreator": "User 5",
+      "quote": 1350,
+      "travelCode": "ST-1350",
+      "reference": "ST-1350-OK",
+      "duration": 4,
+      "status": 1
+    },
+    {
+      "id": "6",
+      "date": 1683072000000,
+      "agent": "ECU TRAVEL",
+      "userCreator": "User 6",
+      "quote": 1600,
+      "travelCode": "ET-1600",
+      "reference": "ET-1600-OK",
+      "duration": 3,
+      "status": 1
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "customerType": 1,
+      "name": "John",
+      "surname": "Doe",
+      "companyName": "Doe Enterprises",
+      "age": 35,
+      "dateOfBirth": 698291200000,
+      "mainTourReference": "ST-1256-OK",
+      "phone": "+1234567890",
+      "language": "English",
+      "adress": "123 Main St, Springfield, USA",
+      "email": "johndoe@example.com",
+      "reference": "ST-1256-OK",
+      "travelCode": "ST-1256",
+      "passengers": 4
+    },
+    {
+      "id": "2",
+      "customerType": 1,
+      "name": "Miguel",
+      "surname": "Rios",
+      "companyName": "Rios CO",
+      "age": 30,
+      "dateOfBirth": 698291200000,
+      "mainTourReference": "ST-1256-OK",
+      "phone": "+1234567890",
+      "language": "English",
+      "adress": "123 Main St, Springfield, USA",
+      "email": "johndoe@example.com",
+      "reference": "ST-1256-OK",
+      "travelCode": "ST-1256",
+      "passengers": 4
+    }
+  ]
+}
